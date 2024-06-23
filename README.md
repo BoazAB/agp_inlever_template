@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Rift guardian
+Project team: Devil's Luck
 
 Platform:
-[jullie platfom]
+Unreal engine
 
 ### Korte omschrijving van de game
 ...
