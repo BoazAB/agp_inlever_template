@@ -5,13 +5,13 @@ Platform:
 Unreal engine
 
 ### Korte omschrijving van de game
-...
+VR wave shooter
 
 ---
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
+| Link naar online product backlog (Trello) | [[Backlog](https://unreal-academy.codecks.io/decks)]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
