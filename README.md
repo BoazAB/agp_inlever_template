@@ -5,7 +5,9 @@ Platform:
 Unreal engine
 
 ### Korte omschrijving van de game
-VR wave shooter
+Rift guardian is een VR shooter waar je doel is om een rift te beschermen tegen buitenaardse indringers die in golfen proberen langs jou te komen.
+
+Gebruik de shop om wapens, explosieven en meer grappig en handig gereedschap te kopen om je missie te voltooien: **BESCHERM DE *RIFT!***
 
 ---
 #### Producten Werkproces 1
